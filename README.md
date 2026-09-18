@@ -1,6 +1,6 @@
 # Doğal Dil İşleme (NLP) - Açık Kaynak Sistem Mimarisi
 
-Bu depo, 4. sınıf Doğal Dil İşleme dersinin laboratuvar merkezi, yerelleştirilmiş dokümantasyon arşivi ve sızma testi (red-teaming) alanıdır. Dersin ana omurgası Hugging Face LLM Course üzerinden yürütülmektedir.
+Bu depo, 4. sınıf Doğal Dil İşleme dersinin laboratuvar merkezi, yerelleştirilmiş dokümantasyon arşivi ve sızma testi (red-teaming) alanıdır. Dersin ana omurgası Hugging Face LLM Course üzerinden yürütülmektedir. kaynak:https://huggingface.co/learn/llm-course
 
 ## 📌 İş Akışı ve Pull Request (PR) Kuralları
 
