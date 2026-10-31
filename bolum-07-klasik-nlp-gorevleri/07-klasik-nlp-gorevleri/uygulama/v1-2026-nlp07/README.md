@@ -78,9 +78,9 @@ Hugging Face görev modellerini çalıştırır.
 
 Üç sohbet modeliyle yapılan yeni karşılaştırmalı red-team deneyleri ayrı,
 bağımsız [Colab notebookunda](../../red-team/2026-guz-nlp07.ipynb) bulunur.
-Kodlar ve gerçek API çıktıları notebook içinde kayıtlıdır; okumak için anahtar
-gerekmez. Yeniden çalıştırma, kendi Groq API anahtarınızı ve internet erişimini
-gerektirir. Senaryolar ve bulgular [red-team rehberinde](../../red-team/2026-guz-nlp07.md)
+Kodlar ve gerçek API çıktıları notebook içinde kayıtlıdır; kayıtlı kipte anahtar
+gerekmez. Yeni API çağrıları için `CANLI_CALISTIR` kutusunu açın; bu kip kendi
+Groq API anahtarınızı ve internet erişimini gerektirir. Senaryolar ve bulgular [red-team rehberinde](../../red-team/2026-guz-nlp07.md)
 tek dosyadan anlatılabilir.
 
 ## Önbellekten ve çevrimdışı çalışma
