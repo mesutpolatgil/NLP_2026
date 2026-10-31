@@ -62,7 +62,7 @@ Notebook: Jupyter ortamında `main.ipynb` dosyasını açın veya Colab'a yükle
 İlk hücre paketleri kurar. Notebook başka bir `.py` dosyasını içe aktarmadan
 çalışır. Kaynak kodlar, tokenlar, varlık tabloları ve MLM skor grafiği görünürdür.
 
-## Gerçek terminal kanıtlarını yeniden üretme
+## Yerel görev deneylerini yeniden üretme
 
 ```powershell
 python deney_terminali.py --case qa --output qa-kanit.json
@@ -73,8 +73,15 @@ python deney_terminali.py --case loss --output loss-kanit.json
 ```
 
 Her komut modeli gerçekten çalıştırır; eski çıktı metnini tekrar ekrana basmaz.
-JSON'da `main.py` dosyasının SHA256 değeri kaydedilir. Terminal ekranları
-[red-team raporunda](../../red-team/2026-guz-nlp07.md) örneklenir.
+JSON'da `main.py` dosyasının SHA256 değeri kaydedilir. Bu komutlar yerel
+Hugging Face görev modellerini çalıştırır.
+
+Üç sohbet modeliyle yapılan yeni karşılaştırmalı red-team deneyleri ayrı,
+bağımsız [Colab notebookunda](../../red-team/2026-guz-nlp07.ipynb) bulunur.
+Kodlar ve gerçek API çıktıları notebook içinde kayıtlıdır; okumak için anahtar
+gerekmez. Yeniden çalıştırma, kendi Groq API anahtarınızı ve internet erişimini
+gerektirir. Senaryolar ve bulgular [red-team rehberinde](../../red-team/2026-guz-nlp07.md)
+tek dosyadan anlatılabilir.
 
 ## Önbellekten ve çevrimdışı çalışma
 

@@ -37,8 +37,10 @@ The term "language processing" has been used to describe many languages, but it 
 NER varlık aralıkları, MLM top-k skorları, T5 kaynak/hedef tokenizasyonu,
 gerçek çeviri/özet, causal devam ve QA cevap aralığı çalıştırıldı.
 Sohbet modelinde gerçek rol şablonu kullanıldı. Talimat enjeksiyonunun
-etkisiz kalması da sonuçtur; saldırı başarısı uydurulmadı. QA bağlam
-zehirleme, özetlemede olgusallık ve uzun pencere kayıtları red-team raporundadır.
+etkisiz kalması da sonuçtur; saldırı başarısı uydurulmadı. Bu yerel modellerin
+QA bağlam zehirleme, özetleme ve uzun pencere çıktıları uygulama notebookunda
+bulunur. [Red-team raporu](../../red-team/2026-guz-nlp07.md) ve onun bağımsız
+notebooku, ayrı bir deney olarak Groq üzerinden üç sohbet modelini karşılaştırır.
 
 Notebook, dış main.py modülünü içe aktarmayan bağımsız kod hücreleriyle
 yerelde yürütüldü; kodlar, HTML tabloları ve gerçek skor grafiği kaydedildi.
