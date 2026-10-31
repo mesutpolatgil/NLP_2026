@@ -1,0 +1,7 @@
+# Python 3.12 ile doğrulanan API ailesi. Test ortamı requirements-tested.txt içinde.
+torch>=2.6,<3
+transformers>=4.57.1,<5
+tokenizers>=0.22,<0.23
+huggingface-hub>=0.34,<1
+sentencepiece>=0.2,<0.3
+safetensors>=0.5,<1
