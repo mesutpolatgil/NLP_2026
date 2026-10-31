@@ -47,10 +47,10 @@ GPU zorunlu değildir. Model ağırlıklarını ve sanal ortamı Git'e eklemeyin
 
 ```powershell
 py -3.12 -m venv .venv
-..venvScriptspython.exe -m pip install torch --index-url https://download.pytorch.org/whl/cpu
-..venvScriptspython.exe -m pip install -r requirements.txt
-..venvScriptspython.exe main.py --task ner --output ner-sonuc.json
-..venvScriptspython.exe main.py --task qa --output qa-sonuc.json
+.\.venv\Scripts\python.exe -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe main.py --task ner --output ner-sonuc.json
+.\.venv\Scripts\python.exe main.py --task qa --output qa-sonuc.json
 ```
 
 Linux/macOS: `python3 -m venv .venv`, Python yolu `.venv/bin/python`.
