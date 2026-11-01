@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+hf_cache/
+calisma_ciktilari/
+*.safetensors
+*.bin
+*.pt
+*.pth
+wandb/

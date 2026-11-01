@@ -1,0 +1,11 @@
+TRL sürümü: 1.16.0
+num_generation=4  ->  HATA: GRPOConfig.__init__() got an unexpected keyword argument 'num_generation'. Did you mean 'num_generations'?
+num_generations=4 ->  OK
+  num_generations              = 4
+  per_device_train_batch_size  = 4
+  gradient_accumulation_steps  = 2
+  learning_rate                = 1e-05
+  beta                         = 0.0
+  epsilon                      = 0.2
+  max_completion_length        = 512
+  temperature                  = 1.0

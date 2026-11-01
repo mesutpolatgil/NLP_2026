@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "samples": 8,
+    "mean_tokens": 91.625,
+    "mean_absolute_error": 41.625,
+    "mean_reward": -41.625,
+    "within_5_tokens_rate": 0,
+    "generation_limit_rate": 0.875
+  },
+  "records": [
+    {
+      "index": 0,
+      "prompt": "SUBREDDIT: r/AskReddit\n\nTITLE: How do I buy a printable iTunes gift certificate without installing iTunes?\n\nPOST: **The short story:**  I don't want a physically mailed gift card, I want one I can print out.  I don't have iTunes (DO NOT WANT TO INSTALL IT), nor do I have an iPad, iPhone, or iPod, or iWhatever.  Any solution?\n\nThe long story: I want to get my stepmom [Faerie Solitaire Mobile] for Mother's Day, because I think she'd really like it.  But, I can't gift THAT without installing iTunes.  So, I figured I would get her a gift card.  BUT, the Apple store will only let me buy a physical card to be mailed.  I don't want to mail it to her because I already have a nice card to send to her that I figure I could enclose a printable gift card with.  And if I get a card sent HERE first, it will be too late to mail to her.  The only way to PRINT a certificate seems to require iTunes, for some stupid reason.\n\nTL;DR:",
+      "output": " Getting a digital heirloom card without installing iTunes would never work.\n\nP.S. This is why I don't have an iPad, it makes it so much harder to get something that's printed on it.\n\nYou are logged in. (Only available within Storytellers)\n\nYou are allowed to use the Storytellers theme this time.\n\nYou were logged out. To return, log in to the Storytellers theme, and log",
+      "token_count": 96,
+      "absolute_error": 46,
+      "reward": -46,
+      "hit_generation_limit": true
+    },
+    {
+      "index": 1,
+      "prompt": "SUBREDDIT: r/relationships\n\nTITLE: Me [21 M] potentially with [21 F] How to make a move on a date?\n\nPOST: I'll start with a bit of back story. So me and this girl went to High School together and were always quite flirty to the point were people were telling me I should stop for the sake of my current girlfriend at the time. We both went off to university and didn't talk until now 3 years on. During this time me and my ex girlfriend split up we'd been together for 5 years and broke up about 3/4 months ago. She also had a boyfriend at the time, but looking at her facebook that appears to be over too not sure for how long.\n\nAnyway she started texting me a few days ago and she wants to meet up. I always had a bit of a thing for her so I thought why not plus it'd be nice to catch up.  I asked her where she'd like to go she suggested a few things and we settled on going to the zoo for the day. \n\nNow I'm not sure when she says catch up whether that means just 2 friends catching up or more of a date thing? I dunno whether it would be appropriate to make any sort of \"move\" like going to hold her hand or put my arm round her or something?\n\nI was planning on playing it by ear but thought I'd ask here and see what you guys thought\n\nTL;DR:",
+      "output": " two doors in a room. Open one and I will give her 1000 gold coins to get her to do the other. I have a plan to keep the conditions like you've mentioned, but I do have some doubts about what I would do and if I am doing it right from the start.\n\nNow here is my question: What in the world are you going to do so the two doors aren't the same length?\n\nWhat should I do",
+      "token_count": 96,
+      "absolute_error": 46,
+      "reward": -46,
+      "hit_generation_limit": true
+    },
+    {
+      "index": 2,
+      "prompt": "SUBREDDIT: r/relationships\n\nTITLE: Me [20F] with my defacto SO [23M] ofa few months, friends with a [17F] he slept with and I can't cope\n\nPOST: Essentially, they've been friends for a long time, and they've slept together a few times. \n\nWe've been together for about 2 months, with a 2 week break in between. \n\nWhen he and I broke up briefly, she was right there with him, getting drunk and sleeping in the same bed because she said she was \"too drunk to go home\", but later hinted that it was a ploy to get in his pants.\n\nShe has always fantasized over him because he is older, and he was her \"knight in shining armour\" when her life was dark. I understand that and don't blame her.\n\n---\n\nThey're good friends now (apparently platonic, although she has told me that he keeps flirting and making passes, but she \"respects the relationship too much to hurt me\". (Which just makes me think that if i wasn't here, she's be all over him like bees on honey.)\n\nShe's otherwise a lovely person, and I feel awful for feeling this way, but I just can't be okay with it, no matter how hard I try to just get over it. What should I do?\nKeep trying to bite my tongue? say something? continue drinking?\n\nTL;DR:",
+      "output": " She won't stop talking about him and I just can't keep it up after she's on.\n\n(I would just like to spend some time with her, but I have been doing everything I can to get away. Should I keep trying? FINALLY I KNOW WHAT I'm doing here.)",
+      "token_count": 62,
+      "absolute_error": 12,
+      "reward": -12,
+      "hit_generation_limit": false
+    },
+    {
+      "index": 3,
+      "prompt": "SUBREDDIT: r/tifu\n\nTITLE: TIFU by skipping out on work\n\nPOST: So, I ignored my alarm this morning and woke up at 6:45 am, while I needed to be at work at 7:00 am. I live 35 minutes away. I decide I'm better off taking a sick day than being written up for being late. That's fine for me; play some League, enjoy a movie, relax for the day. \n\nI messaged by boss to let him know I wouldn't be in due a stomach bug that was really tearing up my stomach. I felt fine, but what he doesn't know won't hurt, right?\n\nApparently, karma had a different plan. As I was loading into a game of League, I had a rumbling in my stomach. It felt like normal gastric distress, like some harmless flatulence, so I trusted it. \n\nI let loose what I thought was just a fart, and all the sudden I feel this warmth. I knew immediately what I had done. I had shit my pants for the first time since I was a child. All because I trusted a fart.\n\nTL;DR:",
+      "output": " I'm a little of a geek at heart. I'm a cheesy lot. And my tail is grainy.\n\nTHANKS! I was trying to beat the cold like crazy.\n\nCover Photo: Unsplash/Duane Haughton / George R.R. Martin\n\nLast night I was in a rocking chair while I lay at my doctor's desk hearing that my c***s were wasted on me and nothing else was climbing",
+      "token_count": 96,
+      "absolute_error": 46,
+      "reward": -46,
+      "hit_generation_limit": true
+    },
+    {
+      "index": 4,
+      "prompt": "SUBREDDIT: r/tifu\n\nTITLE: TIFU by pissing on my work uniform\n\nPOST: Not that it really matters, but this actually happened a few years ago while I was working at a grocery store. \nSo, I'm working as a seafood clerk and, as part of my uniform, have an apron on. I take my dinner break and, before heading downstairs to resume my shift, decide I need to take a piss. I should also mention that I'm a bit tired and the fluorescent lighting in the store was not helping me keep my eyes open and my mind sharp. \n\nStandard procedure, zip down the fly on my jeans and pull my apron to the side. Everything is fine for a few seconds until I somehow let go of my apron and start pissing all over it and also partially on the button area of my jeans (because of back spray). Thankfully, no one else was in the employee bathroom while I was and I was able to clean up.\n\nI went back downstairs to the seafood counter and convinced my boss that I had forgot my apron at home, even though she saw me with it on earlier that shift.\n\nTL;DR:",
+      "output": "\n\nThe employee waited for me and I forgot my pants and my shirt. I spent half an hour rinsing and wiping my hands on my hat and I took a piss on my uniform. It's not as big as I'd like it to be.\n\nUPDATE: $$\n\nTo correct the original blog post, the employee at the seafood store had accidentally gotten too close to a pissbowl and taken it by accident. Pissing on his uniform doesn",
+      "token_count": 96,
+      "absolute_error": 46,
+      "reward": -46,
+      "hit_generation_limit": true
+    },
+    {
+      "index": 5,
+      "prompt": "SUBREDDIT: r/relationships\n\nTITLE: Me [26 M] with my girlfriend [24 F] of two years, How can I tell her I have herpes?\n\nPOST: Many years ago, I was diagnosed with herpes. dating has been difficult since then. A couple years or so ago, I met this girl. It was my intention to tell her I had herpes before we had sex, but it didn't quite work that way. \n\nI kept putting off telling her because I was afraid to. Now we've been in a committed relationship for 2 years, and have been having unprotected sex for most of it. \n\nWe both have pretty much decided that we could see ourselves married to each other, and she has been hinting very heavily that she wants me to propose.\n\n I feel she needs to know I have herpes though beforehand. What's the best way of telling her, without getting dumped? I haven't had an outbreak in over 6 years, and I've been on suppression meds, but still.\n\nTL;DR:",
+      "output": " I can tell she has herpes. But she doesn't want to know about it, I get scared when she raises her voice.\n\nEDIT:\nI've been making an effort to get her to tell me before she decides to tell me off.\nBased on the June, September and October posts, I have decided to get her to tell me if she's having an outbreak first.\nShe has done this way before, but I'm not sure of the first ",
+      "token_count": 96,
+      "absolute_error": 46,
+      "reward": -46,
+      "hit_generation_limit": true
+    },
+    {
+      "index": 6,
+      "prompt": "SUBREDDIT: r/relationships\n\nTITLE: I [23F] might have to meet my girlfriend's[28 F] ex FWB\n\nPOST: Okay guys, I'm in love with a wonderful, beautiful woman. Let's call her L. L and I hang out with a few of her friends, with my friends, it's all great. But, L invited me a few weeks ago to be her date at her Halloween party. Her entire friend group will be at this party, including some people I haven't met. She told me this week that, full disclosure, she fucked one of her friends a few times this summer. This friend, let's call her M, will be the Halloween party.\n\nL and I had a talk about this, about how I don't like being friends with any type of ex. We decided that she would always hang out with M in groups, or tell me ahead of time if it was a one-on-one thing, and that I would never be forced to meet M. I felt good about this.\n\nNow, knowing that L wanted me to go to the party as her date, I assumed she had made arrangements for the party. I asked her last night - what's the deal? She said M was invited before and so I would have to decide if I wanted to come. I told her I have no choice, I can't meet someone she's fucked, because shaking a lesbian's hand is like shaking her dick, and I can't say \"Hi, nice to meet you\" and shake something that's been inside of my girlfriend.\n\nSo, here we are, L is totally unsure of what to do and I honestly wish she could just not be friends with M. I'd never ask her to do that, that's terrible, but it god would it be easier.\n\nTL;DR:",
+      "output": " I told her that meeting M would make me feel stupid and confused and that I should ditch the guy or stick with L. I'm asking her if that works for her now.\n\n\"Actually, uhm, L didn't want me to come, so I guess I should assume she didn't want to meet me... \"\n\nposted on Wednesday 13th, 2009 at 10:56AM Posted by slitonce",
+      "token_count": 95,
+      "absolute_error": 45,
+      "reward": -45,
+      "hit_generation_limit": true
+    },
+    {
+      "index": 7,
+      "prompt": "SUBREDDIT: r/relationships\n\nTITLE: My girlfriend(F17) broke up with me since I(m17) didnt let her cheat off me on the final exam\n\nPOST: Today I had my final today and my girlfriend sat right next to me (we have the same first letter of our last name)(Alphabetic order). So anyways she was saying how I should let her cheat off me because I love her, I thought she was joking ,but during the test she would nudge me. I mouthed the words No and moved the cover sheet for the test closer. (Im not going to risk being caught which will end up cancelling my exam score and referral)\n\nAfter the test we had a big fight and to sum it up, we broke up and I lost my prom date in front of a lot of people. We were together for 6 months ,so she wasnt just dating me for the sole purpose of cheating, and this was the first time she did this.\n\nTL;DR:",
+      "output": " I broke up because of this situation\n\nTitle: Happy 10\n\nINTERVIEW:\n\nVirtual Hangouts via LuvRoam\n\nTitle: F17\n\nINTERVIEW:\n\nF17 specifically mentioned that when she left the room she STILL COME back to him. That she had found some sort of disliking that was healing but she had never actually seen before. \nAnd she would response that even though she had",
+      "token_count": 96,
+      "absolute_error": 46,
+      "reward": -46,
+      "hit_generation_limit": true
+    }
+  ]
+}
