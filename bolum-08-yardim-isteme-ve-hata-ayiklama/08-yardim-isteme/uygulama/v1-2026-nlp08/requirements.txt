@@ -1,0 +1,6 @@
+# Hugging Face Course Chapter 8 - Uygulama Bağımlılıkları
+transformers>=4.30.0
+datasets>=2.14.0
+torch>=2.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0

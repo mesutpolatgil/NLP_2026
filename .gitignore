@@ -1,0 +1,36 @@
+# Yerel Taslak ve Arşiv Klasörü
+_arsiv/
+*.docx
+~$*.pptx
+~$*.docx
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Sanal Ortamlar
+venv/
+.venv/
+env/
+ENV/
+
+# İşletim Sistemi Geçici Dosyaları
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# IDE & Editör
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Gizli / Hassas Değişken Dosyaları
+.env
+.env.*
+*.pem
+*.key
