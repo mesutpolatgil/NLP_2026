@@ -108,6 +108,16 @@ yapılmadı. Kaynak kursun uzun ince ayar ve sıfırdan ön eğitim kodları
 
 ## Kaynaklar
 
+### Sunum dosyaları
+
+[PowerPoint sunumu](../../sunum/2026-guz-nlp07.pptx) · [PDF sunumu](../../sunum/2026-guz-nlp07.pdf)
+
+112 sayfalık akış: Buğrahan 1–20, Berk 21–33, Mert 34–52, Umut 53–112.
+Soru-cevap dosyasındaki 28 sorunun tamamı ve cevapları sunuma dahil edilmiştir.
+Mert'in deneyleri hem sunumda hem kayıtlı çıktılı Colab notebookunda bulunur.
+
+### Teknik kaynaklar
+
 [HF Bölüm 7](https://huggingface.co/learn/llm-course/en/chapter7/1) ·
 [NER](https://huggingface.co/dslim/bert-base-NER) ·
 [DistilBERT MLM](https://huggingface.co/distilbert/distilbert-base-uncased) ·
