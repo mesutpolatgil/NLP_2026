@@ -112,9 +112,15 @@ yapılmadı. Kaynak kursun uzun ince ayar ve sıfırdan ön eğitim kodları
 
 [PowerPoint sunumu](../../sunum/2026-guz-nlp07.pptx) · [PDF sunumu](../../sunum/2026-guz-nlp07.pdf)
 
-112 sayfalık akış: Buğrahan 1–20, Berk 21–33, Mert 34–52, Umut 53–112.
-Soru-cevap dosyasındaki 28 sorunun tamamı ve cevapları sunuma dahil edilmiştir.
-Mert'in deneyleri hem sunumda hem kayıtlı çıktılı Colab notebookunda bulunur.
+108 sayfalık akış: Buğrahan 1–22, Berk 23–61, Umut 62–88, Mert 89–108.
+Kaynak Bölüm 7’nin dokuz başlığı ve 13 resmî quiz sorusu sırasıyla işlenir.
+Diğer 15 özgün soru, soru-cevap dosyasında korunur; ana sunumda tekrarlanmaz.
+Mert’in deneyleri, kaynak ders tamamlandıktan sonra ayrı ekip uygulaması olarak
+sunumda ve kayıtlı çıktılı Colab notebookunda bulunur.
+
+Sunumdaki kaynak eğitim kodları ve kaynak sonuçları dersin Türkçe anlatımıdır.
+Bu yerel uygulama hazır modellerle çıkarım yapar; kaynaktaki uzun eğitimlerin
+bu revizyonda yeniden çalıştırıldığı iddia edilmez.
 
 ### Teknik kaynaklar
 
