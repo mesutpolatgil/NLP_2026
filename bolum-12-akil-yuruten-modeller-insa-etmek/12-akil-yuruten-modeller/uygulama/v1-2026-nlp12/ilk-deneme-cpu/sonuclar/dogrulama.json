@@ -1,0 +1,10 @@
+{
+  "training_steps": 12,
+  "held_out_samples": 8,
+  "overlapping_prompts": 0,
+  "metric_recalculation": "passed",
+  "adapter_reload_and_generation": "passed",
+  "notebook_syntax": "passed",
+  "colab_executed": false,
+  "gpu_training_executed": false
+}

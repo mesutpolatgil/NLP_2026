@@ -1,0 +1,7 @@
+transformers==4.50.3
+trl==0.16.1
+peft==0.15.2
+datasets==3.5.0
+accelerate==1.6.0
+numpy==2.2.4
+matplotlib==3.10.1

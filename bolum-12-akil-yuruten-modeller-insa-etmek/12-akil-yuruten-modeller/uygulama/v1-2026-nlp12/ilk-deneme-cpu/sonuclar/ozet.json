@@ -1,0 +1,37 @@
+{
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "model_revision": "12fd25f77366fa6b3b4b768ec3050bf629380bac",
+  "dataset": "mlabonne/smoltldr",
+  "device": "CPU",
+  "torch_version": "2.12.0+cpu",
+  "cuda": null,
+  "target_tokens": 50,
+  "steps": 12,
+  "train_samples": 32,
+  "eval_samples": 8,
+  "seed": 42,
+  "num_generations": 2,
+  "trainable_parameters": 4884480,
+  "total_parameters": 139399488,
+  "training_seconds": 144.6945035457611,
+  "elapsed_seconds": 701.3747165203094,
+  "peak_gpu_allocated_gib": 0,
+  "before": {
+    "samples": 8,
+    "mean_tokens": 92,
+    "mean_absolute_error": 42,
+    "mean_reward": -42,
+    "within_5_tokens_rate": 0,
+    "generation_limit_rate": 0.875
+  },
+  "after": {
+    "samples": 8,
+    "mean_tokens": 91.625,
+    "mean_absolute_error": 41.625,
+    "mean_reward": -41.625,
+    "within_5_tokens_rate": 0,
+    "generation_limit_rate": 0.875
+  },
+  "mae_improvement_percent": 0.8928571428571429,
+  "scope": "Length control only; no claim of reasoning or factual-quality improvement."
+}

@@ -1,0 +1,20 @@
+=== reward_length ve reward_len (ideal_length = 20) ===
+'Short'                                              uzunluk=  5  reward_length=  5.0  reward_len= -15
+'Medium length text'                                 uzunluk= 18  reward_length= 18.0  reward_len=  -2
+'This is about twenty chars'                         uzunluk= 26  reward_length= 26.0  reward_len=  -6
+'This is a slightly longer completion'               uzunluk= 36  reward_length= 36.0  reward_len= -16
+'This is a much longer completion with more words'   uzunluk= 48  reward_length= 48.0  reward_len= -28
+
+=== problem_reward ===
+What is 5 + 7?                   doğru= 12  model= 12  ödül=1.0
+Calculate 12 * 6                 doğru= 72  model= 92  ödül=0.0
+What is 100 / 4?                 doğru= 25  model= 15  ödül=0.0
+Solve for x: 3x = 15             doğru=  5  model=  0  ödül=0.0
+What is the square root of 81?   doğru=  9  model=  9  ödül=1.0
+
+=== reward_format (katı ^...$) ve format_reward (içerik kontrollü) ===
+'<think>Let me solve this step by step</think><answer>42</answer>'       reward_format=1.0  format_reward=1.0
+'<think>Short</think><answer>42</answer>'                                reward_format=1.0  format_reward=0.5
+'<think>Let me solve this step by step</think>\n<answer>42</answer>'     reward_format=0.0  format_reward=1.0
+'The answer is 15 without any special format'                            reward_format=0.0  format_reward=0.0
+'<think>I should use a loop</think><code>while True: pass</code>'        reward_format=0.0  format_reward=0.0
